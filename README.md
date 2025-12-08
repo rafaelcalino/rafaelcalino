@@ -1,11 +1,3 @@
-# 🚀 Rafael Calino | IT Director | Chief Technology Officer
-
-<div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=CTO+%26+Tech+Leader;Microservices+Architect;Cloud+%26+Scalability+Expert)
-
-</div>
-
 ## 🏆 Certifications & Achievements
 
 <div align="center">
@@ -25,7 +17,7 @@
 
 ```typescript
 const rafaelCalino: CTOProfile = {
-  role: "Chief Technology Officer",
+  role: "Chief Technology Officer | IT Director",
   specialization: "Microservices Architecture & Scalable Systems",
   location: "🇧🇷 Brazil",
   currentFocus: ["System Architecture", "Team Leadership", "Cloud Migration"],
