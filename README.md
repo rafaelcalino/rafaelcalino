@@ -5,12 +5,9 @@
 ### ☁️ AWS Certifications
 ![AWS](https://img.shields.io/badge/AWS-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-DevOps%20Engineer-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-SysOps%20Administrator-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 🐰 Messaging & Integration
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-Certified%20Professional-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-Specialist-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-
 </div>
 
 ## 🎯 About Me
