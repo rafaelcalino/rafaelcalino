@@ -1,35 +1,10 @@
-# 🚀 Rafael Calino | CTO & Microservices Architect
+# 🚀 Rafael Calino | IT Director | Chief Technology Officer
 
 <div align="center">
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=CTO+%26+Tech+Leader;Microservices+Architect;Cloud+%26+Scalability+Expert)
 
 </div>
-
-## 🎯 About Me
-
-```typescript
-const rafaelCalino: CTOProfile = {
-  role: "Chief Technology Officer",
-  specialization: "Microservices Architecture & Scalable Systems",
-  location: "🇧🇷 Brazil",
-  currentFocus: ["System Architecture", "Team Leadership", "Cloud Migration"],
-  
-  expertise: {
-    architecture: ["Microservices", "Event-Driven", "Domain-Driven Design"],
-    cloud: ["AWS", "Docker", "Kubernetes", "Serverless"],
-    messaging: ["RabbitMQ", "Apache Kafka", "Event Sourcing"],
-    languages: ["Node.js", "Python", "Go", "TypeScript"],
-    databases: ["PostgreSQL", "MongoDB", "Redis", "DynamoDB"]
-  },
-  
-  leadership: {
-    teamSize: "20+ Engineers",
-    methodology: ["Agile", "DevOps", "CI/CD"],
-    focus: ["Technical Excellence", "Scalable Solutions", "Team Growth"]
-  }
-}
-```
 
 ## 🏆 Certifications & Achievements
 
@@ -45,6 +20,31 @@ const rafaelCalino: CTOProfile = {
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-Specialist-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 </div>
+
+## 🎯 About Me
+
+```typescript
+const rafaelCalino: CTOProfile = {
+  role: "Chief Technology Officer",
+  specialization: "Microservices Architecture & Scalable Systems",
+  location: "🇧🇷 Brazil",
+  currentFocus: ["System Architecture", "Team Leadership", "Cloud Migration"],
+  
+  expertise: {
+    architecture: ["Microservices", "Event-Driven", "Domain-Driven Design"],
+    cloud: ["AWS", "Docker", ,"ECS", "Kubernetes", "Serverless"],
+    messaging: ["RabbitMQ", "Apache Kafka", "Event Sourcing"],
+    languages: ["Node.js", "Python", "Asterisk"],
+    databases: ["PostgreSQL", "MongoDB", "Redis", "DynamoDB"]
+  },
+  
+  leadership: {
+    teamSize: "20+ Engineers",
+    methodology: ["Agile", "DevOps", "CI/CD"],
+    focus: ["Technical Excellence", "Scalable Solutions", "Team Growth"]
+  }
+}
+```
 
 ## 🛠️ Tech Stack & Expertise
 
