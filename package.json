@@ -1,0 +1,13 @@
+{
+  "name": "chat-service",
+  "version": "1.0.0",
+  "description": "Chat service with refactored endChat method",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"No tests configured yet\" && exit 0",
+    "lint": "echo \"No linter configured yet\" && exit 0"
+  },
+  "keywords": ["chat", "service"],
+  "author": "Rafael Calino",
+  "license": "MIT"
+}
